@@ -1,0 +1,45 @@
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.csproj.AssemblyReference.cache
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.FrmMenu.resources
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.FrmProductos.resources
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.Properties.Resources.resources
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.csproj.GenerateResource.cache
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.FrmMovimientos.resources
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\bin\Debug\FormMovimientos.exe.config
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\bin\Debug\FormMovimientos.exe
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\bin\Debug\FormMovimientos.pdb
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.exe
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.pdb
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.exe.config
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.FrmReportes.resources
+C:\Users\Gregory Chavez\source\repos\FormMovimientos\FormMovimientos\obj\Debug\FormMovimientos.FrmPerfiles.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.csproj.AssemblyReference.cache
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.exe.config
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmMenu.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmMovimientos.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmPerfiles.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmProductos.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmReportes.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.Properties.Resources.resources
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.csproj.GenerateResource.cache
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.exe
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.pdb
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\bin\Debug\FormMovimientos.exe.config
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\bin\Debug\FormMovimientos.exe
+C:\Users\Gregory Chavez\Desktop\inventario\FormMovimientos\bin\Debug\FormMovimientos.pdb
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.csproj.AssemblyReference.cache
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.exe.config
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmMenu.resources
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmMovimientos.resources
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmPerfiles.resources
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmProductos.resources
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.FrmReportes.resources
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.Properties.Resources.resources
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.csproj.GenerateResource.cache
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.csproj.CoreCompileInputs.cache
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.exe
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\obj\Debug\FormMovimientos.pdb
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\bin\Debug\FormMovimientos.exe.config
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\bin\Debug\FormMovimientos.exe
+C:\Users\Ivelisse\Desktop\inventario\FormMovimientos\bin\Debug\FormMovimientos.pdb
