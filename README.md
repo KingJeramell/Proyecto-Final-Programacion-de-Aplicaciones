@@ -1,6 +1,8 @@
 Instrucciones de Instalación y Ejecución
 
 Proyecto Final – Aplicación con Base de Datos
+
+
 ESTE TRABAJO FUE HECHO POR EL GRUPO 1
 
 APLICACION DE GESTION DE INVENTARIO PARA GRANIX
