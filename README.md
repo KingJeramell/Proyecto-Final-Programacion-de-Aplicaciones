@@ -2,7 +2,7 @@ Instrucciones de Instalación y Ejecución
 
 Proyecto Final – Aplicación con Base de Datos
 
-       Trabajo grupal del: GRUPO 1
+Este trabjo fue hecho por el GRUPO 1
 APLICACION DE GESTION DE INVENTARIO PARA GRANIX
 JERAMELL JOSE FELIZ ULLOA [2025-0047]
 JEREMYH NELL MOTA GUZMAN [2025-0016]
